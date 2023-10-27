@@ -14,10 +14,11 @@ An EFI file for the ones with i5-10210U, and no keyboard backlighting variant.
 *   DRM
 *   RTC
 *   NVRAM
-*   sleep (partially).
+*   sleep (almost).
 ###  Sleep
-When the laptop remains asleep for a long time, and I come to the computer to wake it up after a while, I see that the fans are spinning, then I lift the lid slightly - so that the computer does not detect the lid lift input: The keyboard lights are on. When I lift the cover in a way that the computer can detect, the screen does not light up (the screen is completely dark), and even if I press keys on the keyboard in a way that MacOS would give a warning, it does not provide a warning sound (I think it is still in sleep). So I have to hold the power button (to turn it off) and press it again (to turn it on).
+You could rarely have a black screen on wake and have to turn off your computer.
 #  What's Not Working?
+*   fingerprint sensor
 *   secure boot
 # Config
 Note: I used a configurator to show the config because the contents of the config did not fit into the ProperTree window.
