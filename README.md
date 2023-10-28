@@ -14,7 +14,7 @@ An EFI file for the ones with i5-10210U, and no keyboard backlighting variant.
 *   DRM
 *   RTC
 *   NVRAM
-*   sleep (almost).
+*   sleep (almost perfectly).
 ###  Sleep
 You could rarely have a black screen on wake and have to turn off your computer.
 #  What's Not Working?
