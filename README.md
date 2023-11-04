@@ -11,6 +11,7 @@ An EFI file for the ones with i5-10210U, and no keyboard backlighting variant.
 *   HDMI
 *   power management
 *   battery read-outs
+*   Boot Camp
 *   DRM
 *   RTC
 *   NVRAM
