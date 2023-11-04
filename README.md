@@ -25,7 +25,7 @@ Note: I used a configurator to show the config because the contents of the confi
 ![image](https://github.com/Turkifier/Honor-MagicBook-X15-Hackintosh/assets/34972126/0e77b3be-b324-4cb4-ad32-44a7457e2428)
 ####  Patch(es)
 ![image](https://github.com/Turkifier/Honor-MagicBook-X15-Hackintosh/assets/34972126/e8a9c307-b079-4fa4-8935-b5a1c8d9cf57)
-###Kernel
+### Kernel
 #### Add (KEXTs)
 ![image](https://github.com/Turkifier/Honor-MagicBook-X15-Hackintosh/assets/34972126/c315b054-1489-4d7c-acd7-aff45ea70368)
 #### Patch
